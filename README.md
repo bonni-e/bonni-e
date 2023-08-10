@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-[![Static Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black)](http://pf.kakao.com/_vyHxhG/chat)
+<a href="http://pf.kakao.com/_vyHxhG/chat" target="_blank">![Static Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black)</a>
 [![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:5windy@naver.com) <br>
 
 ---
