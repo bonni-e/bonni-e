@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-<img src="https://github.com/bonni-e/airbnb-clone-backend/blob/main/uploads/piano_.png" width="328px">
+<img src="https://github.com/bonni-e/bonni-e/blob/main/uploads/piano_.png?raw=true" width="328px">
