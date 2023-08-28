@@ -1,6 +1,8 @@
 ### Hi there 👋🏻
 <a href="http://pf.kakao.com/_vyHxhG/chat" target="_blank">![Static Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black)</a>
-[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:5windy@naver.com) <br>
+[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:5windy@naver.com) 
+![views](https://gh-hits.nomadcoders.workers.dev/view?username=bonni-e) 
+<br>
 
 ---
 🛵 **I am Developer skilled in API and WEB.** 👩🏻‍💻 I have a passion for building diverse web applications and services, focusing on delivering excellent user experiences through optimized code and scalable systems. I am particularly interested in database management and API development, constantly learning new technologies and contributing to team goals through collaboration. <br>
