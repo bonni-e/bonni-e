@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 -->
 
 #### 🤞🏻 Projects
-[![Static Badge](https://img.shields.io/badge/🍠GogooMarket-edce41?style=flat-square)](about:blank) <br>
+[![Static Badge](https://img.shields.io/badge/🍠GogooMarket-edce41?style=flat-square)](about:blank) 
+[![Static Badge](https://img.shields.io/badge/🧠MyPACS-3182ce?style=flat-square)](https://polio.dev/pacs-front/) 
+<br>
 
 #### [💪🏻](https://nomadcoders.co/users/5windy) Challenges
 [![Static Badge](https://img.shields.io/badge/Airbnb-FF5A5F?style=flat-square&logo=Airbnb&logoColor=white)](https://github.com/users/bonni-e/projects/1/views/3?pane=info) <br>
